@@ -1,0 +1,6 @@
+C:\Users\Sanjay\source\repos\BinarySearchTreeAll\BinarySearchTreeAll\obj\Debug\BinarySearchTreeAll.csprojAssemblyReference.cache
+C:\Users\Sanjay\source\repos\BinarySearchTreeAll\BinarySearchTreeAll\bin\Debug\BinarySearchTreeAll.exe.config
+C:\Users\Sanjay\source\repos\BinarySearchTreeAll\BinarySearchTreeAll\bin\Debug\BinarySearchTreeAll.exe
+C:\Users\Sanjay\source\repos\BinarySearchTreeAll\BinarySearchTreeAll\bin\Debug\BinarySearchTreeAll.pdb
+C:\Users\Sanjay\source\repos\BinarySearchTreeAll\BinarySearchTreeAll\obj\Debug\BinarySearchTreeAll.exe
+C:\Users\Sanjay\source\repos\BinarySearchTreeAll\BinarySearchTreeAll\obj\Debug\BinarySearchTreeAll.pdb
